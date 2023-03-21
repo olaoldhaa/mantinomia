@@ -1,36 +1,13 @@
-// Import Firebase and Firestore
-import { initializeApp } from "https://www.gstatic.com/firebasejs/9.6.1/firebase-app.js";
-import { getFirestore } from "https://www.gstatic.com/firebasejs/9.6.1/firebase-firestore.js";
+// Get the DOM element with an ID of "text" and store it in a variable called "text"
+const text = document.getElementById("text");
 
-// Initialize Firebase with your project configuration
-const firebaseConfig = {
-  apiKey: "AIzaSyDgeBQl-f54OEp1_Aq7E6o88x9wpZ400qA",
-  authDomain: "mantinomia-5d9a0.firebaseapp.com",
-  projectId: "mantinomia-5d9a0",
-  storageBucket: "mantinomia-5d9a0.appspot.com",
-  messagingSenderId: "1020973233543",
-  appId: "1:1020973233543:web:b15ed73b4d531483bd0f22",
-  measurementId: "G-ZJVH0MQ33M",
-};
-
-const app = initializeApp(firebaseConfig);
-const db = getFirestore(app);
-
-// Function to save the edited text to Firestore
-function saveEditedText() {
-  const textContent = textElement.textContent;
-
-  // Save the text content to Firestore
-  db.collection("texts")
-    .doc("editedText")
-    .set({ content: textContent })
-    .then(() => {
-      console.log("Text saved successfully");
-    })
-    .catch((error) => {
-      console.error("Error saving text:", error);
-    });
-}
-
-// Call the function when the user finishes editing the text
-textElement.addEventListener("blur", saveEditedText);
+// Fetch the contents of the text file "mantinomia.txt" and return a Promise
+fetch("./mantinomia.txt")
+  // When the Promise is resolved, convert the response to text using the "text()" method
+  .then((response) => response.text())
+  // When the text data is available, set the "innerHTML" property of the "text" element to the text data
+  .then((data) => {
+    text.innerHTML = data;
+  })
+  // If there is an error, log the error message to the console
+  .catch((error) => console.log(error));
