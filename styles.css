@@ -18,7 +18,7 @@ body {
 
 .nav-container {
   display: flex;
-  justify-content: space-evenly;
+  justify-content: center;
   align-items: center;
   max-width: 1200px;
   margin: 0 auto;
@@ -28,7 +28,7 @@ body {
 .brand {
   color: #fff;
   text-decoration: none;
-  font-size: 1.5rem;
+  font-size: 2rem;
   font-weight: bold;
 }
 
@@ -54,7 +54,7 @@ body {
 }
 
 .main-content {
-  margin-top: 5rem;
+  margin-top: 6rem;
   margin-left: 10rem;
   margin-right: 10rem;
   font-size: 1.2rem;
@@ -69,9 +69,6 @@ body {
   outline: none;
 }
 
-#symbol {
-  width: 2rem;
-}
 /* Responsive styling */
 @media (max-width: 768px) {
   .nav-container {
