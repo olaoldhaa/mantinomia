@@ -18,7 +18,7 @@ body {
 
 .nav-container {
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
   align-items: center;
   max-width: 1200px;
   margin: 0 auto;
@@ -30,6 +30,10 @@ body {
   text-decoration: none;
   font-size: 2rem;
   font-weight: bold;
+}
+
+.nav-p {
+  color: #fff;
 }
 
 .nav-list {

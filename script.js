@@ -1,16 +1,37 @@
-// Get the DOM element with an ID of "text" and store it in a variable called "text"
-const text = document.getElementById("text");
+// Count-functions
+function countWords(text) {
+  const words = text.trim().split(/\s+/);
+  return words.length;
+}
 
-// Fetch the contents of the text file "mantinomia.txt" and return a Promise
+function countSentences(text) {
+  const sentences = text.trim().split(/[\.\?!]+/);
+  return sentences.length;
+}
+
+function countParagraphs(text) {
+  const paragraphs = text.trim().split(/\n\s*\n/);
+  return paragraphs.length;
+}
+
+// Get the text and put it into the HTML document.
+const text = document.getElementById("text");
+const words = document.getElementById("words");
+const sentences = document.getElementById("sentences");
+const paragraphs = document.getElementById("paragraphs");
+
 fetch("mantinomia.txt")
-  // When the Promise is resolved, convert the response to text using the "text()" method
   .then((response) => response.text())
-  // When the text data is available, replace paragraph spaces with <br><br> using a regular expression
   .then((contents) => {
     const replacedContents = contents.replace(/\n\s*\n/g, "<br><br>");
-
-    // Set the "innerHTML" property of the "text" element to the replaced text data
     text.innerHTML = replacedContents;
+
+    // Count-functions
+    const wordCount = countWords(contents);
+    const sentenceCount = countSentences(contents);
+    const paragraphCount = countParagraphs(contents);
+    words.innerHTML = `W: ${wordCount}`;
+    sentences.innerHTML = `S: ${sentenceCount}`;
+    paragraphs.innerHTML = `P: ${paragraphCount}`;
   })
-  // If there is an error, log the error message to the console
   .catch((error) => console.log(error));
