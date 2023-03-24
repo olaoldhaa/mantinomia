@@ -20,7 +20,7 @@ const words = document.getElementById("words");
 const sentences = document.getElementById("sentences");
 const paragraphs = document.getElementById("paragraphs");
 
-fetch("phaedrus.txt")
+fetch("../txt/phaedrus.txt")
   .then((response) => response.text())
   .then((contents) => {
     const replacedContents = contents.replace(/\n\s*\n/g, "<br><br>");

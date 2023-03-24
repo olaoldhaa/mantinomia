@@ -75,6 +75,7 @@ a {
 .dropdown {
   position: relative;
   display: inline-block;
+  width: 10rem;
 }
 
 .dropbtn {

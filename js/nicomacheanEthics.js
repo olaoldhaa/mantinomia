@@ -20,7 +20,7 @@ const words = document.getElementById("words");
 const sentences = document.getElementById("sentences");
 const paragraphs = document.getElementById("paragraphs");
 
-fetch("mantinomia.txt")
+fetch("../txt/nicomacheanEthics.txt")
   .then((response) => response.text())
   .then((contents) => {
     const replacedContents = contents.replace(/\n\s*\n/g, "<br><br>");
