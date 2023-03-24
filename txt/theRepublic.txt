@@ -1,273 +1,256 @@
 THE REPUBLIC.
-PERSONS OF THE DIALOGUE.
-Socrates, who is the narrator.
 
-Glaucon.
-
-Adeimantus.
-
-Polemarchus.
-
-Cephalus.
-
-Thrasymachus.
-
-Cleitophon.
-
-And others who are mute auditors.
+PERSONS OF THE DIALOGUE: Socrates, Glaucon, Adeimantus, Polemarchus, Cephalus, Thrasymachus, Cleitophon and others who are mute auditors.
 
 The scene is laid in the house of Cephalus at the Piraeus; and the whole dialogue is narrated by Socrates the day after it actually took place to Timaeus, Hermocrates, Critias, and a nameless person, who are introduced in the Timaeus.
 
-BOOK I.
-I went down yesterday to the Piraeus with Glaucon the son of Ariston, that I might offer up my prayers to the goddess (Bendis, the Thracian Artemis.); and also because I wanted to see in what manner they would celebrate the festival, which was a new thing. I was delighted with the procession of the inhabitants; but that of the Thracians was equally, if not more, beautiful. When we had finished our prayers and viewed the spectacle, we turned in the direction of the city; and at that instant Polemarchus the son of Cephalus chanced to catch sight of us from a distance as we were starting on our way home, and told his servant to run and bid us wait for him. The servant took hold of me by the cloak behind, and said: Polemarchus desires you to wait.
+BOOK I
 
-I turned round, and asked him where his master was.
+SOCRATES NARRATION: Yesterday, I went with my friend Glaucon, son of Ariston, to Piraeus to pray to the goddess Bendis, who is also known as Thracian Artemis. We were also excited to see the new festival celebration. The procession of the local people was impressive, but the Thracians' procession was even more beautiful. After we finished praying and watching the spectacle, we headed back towards the city. At that moment, Polemarchus, son of Cephalus, saw us from a distance and asked his servant to run and tell us to wait for him. The servant grabbed my cloak from behind and said, "Polemarchus wants you to wait". I turned round, and asked him where his master was.There he is, said the youth, coming after you, if you will wait. 
 
-There he is, said the youth, coming after you, if you will only wait.
+GLAUCON: Certainly we will. 
 
-Certainly we will, said Glaucon; and in a few minutes Polemarchus appeared, and with him Adeimantus, Glaucon’s brother, Niceratus the son of Nicias, and several others who had been at the procession.
+SOCRATES NARRATION: In a few minutes Polemarchus appeared, and with him Adeimantus, Glaucon’s brother, Niceratus the son of Nicias, and several others who had been at the procession.
 
-Polemarchus said to me: I perceive, Socrates, that you and your companion are already on your way to the city.
+POLEMARCHUS: I perceive, Socrates, that you and your companion are already on your way to the city.
 
-You are not far wrong, I said.
+SOCRATES: That's right.
 
-But do you see, he rejoined, how many we are?
+POLEMARCHUS: Can't you see how many of us there are?
 
-Of course.
+SOCRATES: Of course.
 
-And are you stronger than all these? for if not, you will have to remain where you are.
+POLEMARCHUS: Are you stronger than all these? for if not, you will have to remain where you are.
 
-May there not be the alternative, I said, that we may persuade you to let us go?
+SOCRATES: May there not be the alternative that we may persuade you to let us go?
 
-But can you persuade us, if we refuse to listen to you? he said.
+POLEMARCHUS: But can you persuade us, if we refuse to listen to you?
 
-Certainly not, replied Glaucon.
+GLAUCON: Certainly not
 
-Then we are not going to listen; of that you may be assured.
+POLEMARCHUS: Then we are not going to listen; of that you may be assured.
 
-Adeimantus added: Has no one told you of the torch-race on horseback in honour of the goddess which will take place in the evening?
+ADEIMANTUS: Has no one told you of the torch-race on horseback in honour of the goddess which will take place in the evening?
 
-With horses! I replied: That is a novelty. Will horsemen carry torches and pass them one to another during the race?
+SOCRATES: With horses! That is a novelty. Will horsemen carry torches and pass them one to another during the race?
 
-Yes, said Polemarchus, and not only so, but a festival will be celebrated at night, which you certainly ought to see. Let us rise soon after supper and see this festival; there will be a gathering of young men, and we will have a good talk. Stay then, and do not be perverse.
+POLEMARCHUS: Yes, and not only so, but a festival will be celebrated at night, which you certainly ought to see. Let us rise soon after supper and see this festival; there will be a gathering of young men, and we will have a good talk. Stay then, and do not be perverse.
 
-Glaucon said: I suppose, since you insist, that we must.
+GLAUCON: I suppose, since you insist, that we must.
 
-Very good, I replied.
+SOCRATES: Very good.
 
-Accordingly we went with Polemarchus to his house; and there we found his brothers Lysias and Euthydemus, and with them Thrasymachus the Chalcedonian, Charmantides the Paeanian, and Cleitophon the son of Aristonymus. There too was Cephalus the father of Polemarchus, whom I had not seen for a long time, and I thought him very much aged. He was seated on a cushioned chair, and had a garland on his head, for he had been sacrificing in the court; and there were some other chairs in the room arranged in a semicircle, upon which we sat down by him. He saluted me eagerly, and then he said:—
+SOCRATES NARRATION: We arrived at Polemarchus's house and found his brothers Lysias and Euthydemus, as well as Thrasymachus the Chalcedonian, Charmantides the Paeanian, and Cleitophon, son of Aristonymus. Cephalus, Polemarchus's father, was also there, whom I hadn't seen in a long time, and he looked noticeably older. He was seated on a cushioned chair with a garland on his head, as he had been sacrificing in the court. There were several other chairs arranged in a semicircle in the room, and we sat down beside him. He greeted me eagerly.
 
-You don’t come to see me, Socrates, as often as you ought: If I were still able to go and see you I would not ask you to come to me. But at my age I can hardly get to the city, and therefore you should come oftener to the Piraeus. For let me tell you, that the more the pleasures of the body fade away, the greater to me is the pleasure and charm of conversation. Do not then deny my request, but make our house your resort and keep company with these young men; we are old friends, and you will be quite at home with us.
+CEPHALUS: Socrates, you don't come to see me as often as you should. If I were still able to visit you, I wouldn't ask you to come here. But at my age, it's difficult for me to go to the city, so I would appreciate it if you could come to the Piraeus more often. As I grow older, I find that the pleasure and charm of conversation become even more important to me as the pleasures of the body fade away. Please don't deny my request; make our house your regular spot and spend time with these young men. We're old friends, and you'll feel right at home with us.
 
-I replied: There is nothing which for my part I like better, Cephalus, than conversing with aged men; for I regard them as travellers who have gone a journey which I too may have to go, and of whom I ought to enquire, whether the way is smooth and easy, or rugged and difficult. And this is a question which I should like to ask of you who have arrived at that time which the poets call the ‘threshold of old age’—Is life harder towards the end, or what report do you give of it?
+SOCRATES: Cephalus, I must say, there's nothing I enjoy more than conversing with elderly men. I see them as travelers who have already gone on a journey that I too may have to take, and I think it's wise to ask them whether the path ahead is smooth and easy, or rugged and difficult. As you have reached what the poets call the 'threshold of old age,' I would like to ask you a question: Is life harder towards the end, or what is your report on it?
 
-I will tell you, Socrates, he said, what my own feeling is. Men of my age flock together; we are birds of a feather, as the old proverb says; and at our meetings the tale of my acquaintance commonly is—I cannot eat, I cannot drink; the pleasures of youth and love are fled away: there was a good time once, but now that is gone, and life is no longer life. Some complain of the slights which are put upon them by relations, and they will tell you sadly of how many evils their old age is the cause. But to me, Socrates, these complainers seem to blame that which is not really in fault. For if old age were the cause, I too being old, and every other old man, would have felt as they do. But this is not my own experience, nor that of others whom I have known. How well I remember the aged poet Sophocles, when in answer to the question, How does love suit with age, Sophocles,—are you still the man you were? Peace, he replied; most gladly have I escaped the thing of which you speak; I feel as if I had escaped from a mad and furious master. His words have often occurred to my mind since, and they seem as good to me now as at the time when he uttered them. For certainly old age has a great sense of calm and freedom; when the passions relax their hold, then, as Sophocles says, we are freed from the grasp not of one mad master only, but of many. The truth is, Socrates, that these regrets, and also the complaints about relations, are to be attributed to the same cause, which is not old age, but men’s characters and tempers; for he who is of a calm and happy nature will hardly feel the pressure of age, but to him who is of an opposite disposition youth and age are equally a burden.
+CEPHALUS: I will share with you, Socrates, what I personally feel. Men of my age tend to flock together, as the old proverb says, and at our gatherings, the common tale is 'I cannot eat, I cannot drink; the pleasures of youth and love have vanished. There was a good time once, but now it's gone, and life is no longer worth living.' Some complain about the mistreatment they receive from their family members and speak sadly about how their old age is the cause of many evils. But, to me, Socrates, these complainers seem to blame something that is not at fault. If old age were the cause, I too, being old, and every other old man, would feel the same way. However, that is not my own experience or that of others whom I have known. I remember the aged poet Sophocles well. When asked how love suited with age, he replied, 'Are you still the man you were? Most gladly have I escaped the thing of which you speak; I feel as if I had escaped from a mad and furious master.' His words have often come to mind since then, and they seem as good to me now as they were when he uttered them. For certainly, old age brings a great sense of calm and freedom. When the passions loosen their grip, then, as Sophocles says, we are freed not only from the grasp of one mad master but of many. The truth is, Socrates, that these regrets and complaints about family members can be attributed to the same cause, which is not old age, but rather men's characters and temperaments. Those who have calm and happy natures will hardly feel the burden of old age. However, those with opposite dispositions will find both youth and age to be a burden.
 
-I listened in admiration, and wanting to draw him out, that he might go on—Yes, Cephalus, I said: but I rather suspect that people in general are not convinced by you when you speak thus; they think that old age sits lightly upon you, not because of your happy disposition, but because you are rich, and wealth is well known to be a great comforter.
+SOCRATES NARRATION: I listened in admiration.
 
-You are right, he replied; they are not convinced: and there is something in what they say; not, however, so much as they imagine. I might answer them as Themistocles answered the Seriphian who was abusing him and saying that he was famous, not for his own merits but because he was an Athenian: ‘If you had been a native of my country or I of yours, neither of us would have been famous.’ And to those who are not rich and are impatient of old age, the same reply may be made; for to the good poor man old age cannot be a light burden, nor can a bad rich man ever have peace with himself.
+SOCRATES: Yes, Cephalus, but I must admit that I suspect most people are not convinced when you speak in this way. They may believe that old age sits lightly upon you not because of your happy disposition, but rather because you are wealthy. It is well known that wealth can be a great comforter.
 
-May I ask, Cephalus, whether your fortune was for the most part inherited or acquired by you?
+CAPHALUS: You are correct in saying that most people are not convinced, and there is some truth to what they say, but not as much as they imagine. I could respond to them as Themistocles once did when he was being criticized by a Seriphian who claimed that he was only famous because he was Athenian. Themistocles replied, 'If you had been from my country and I from yours, neither of us would be famous.' Similarly, to those who are not wealthy and are impatient with old age, the same response can be given. For a good poor man, old age cannot be a light burden, and a bad rich man can never find peace with himself.
 
-Acquired! Socrates; do you want to know how much I acquired? In the art of making money I have been midway between my father and grandfather: for my grandfather, whose name I bear, doubled and trebled the value of his patrimony, that which he inherited being much what I possess now; but my father Lysanias reduced the property below what it is at present: and I shall be satisfied if I leave to these my sons not less but a little more than I received.
+SOCRATES: May I ask, Cephalus, whether your fortune was mostly inherited or acquired by you?
 
-That was why I asked you the question, I replied, because I see that you are indifferent about money, which is a characteristic rather of those who have inherited their fortunes than of those who have acquired them; the makers of fortunes have a second love of money as a creation of their own, resembling the affection of authors for their own poems, or of parents for their children, besides that natural love of it for the sake of use and profit which is common to them and all men. And hence they are very bad company, for they can talk about nothing but the praises of wealth.
+CEPHALUS: I acquired it, Socrates. Would you like to know how much I acquired? In the art of making money, I have been somewhere between my father and my grandfather. My grandfather, who I am named after, doubled and tripled the value of his inheritance, which was similar to what I have now. However, my father, Lysanias, decreased our family's property below what it is currently worth. I would be content if I leave my sons not less than what I received, but a little more.
 
-That is true, he said.
+SOCRATES: That is precisely why I asked you that question. I noticed that you seem to be indifferent towards money, which is a characteristic more commonly seen in those who have inherited their fortunes than those who have acquired them. The creators of fortunes have a second love for money, as if it were their own creation, similar to the affection that authors have for their own poems, or that parents have for their children. Besides this natural love for money for the sake of use and profit, which is common to all people, the makers of fortunes can become very tedious company because they can only talk about the praise of wealth.
 
-Yes, that is very true, but may I ask another question?—What do you consider to be the greatest blessing which you have reaped from your wealth?
+CEPHALUS: That is true.
 
-One, he said, of which I could not expect easily to convince others. For let me tell you, Socrates, that when a man thinks himself to be near death, fears and cares enter into his mind which he never had before; the tales of a world below and the punishment which is exacted there of deeds done here were once a laughing matter to him, but now he is tormented with the thought that they may be true: either from the weakness of age, or because he is now drawing nearer to that other place, he has a clearer view of these things; suspicions and alarms crowd thickly upon him, and he begins to reflect and consider what wrongs he has done to others. And when he finds that the sum of his transgressions is great he will many a time like a child start up in his sleep for fear, and he is filled with dark forebodings. But to him who is conscious of no sin, sweet hope, as Pindar charmingly says, is the kind nurse of his age:
+SOCRATES: Yes, that is very true, but may I ask another question? What do you consider to be the greatest blessing which you have reaped from your wealth?
 
-‘Hope,’ he says, ‘cherishes the soul of him who lives in justice and holiness, and is the nurse of his age and the companion of his journey;—hope which is mightiest to sway the restless soul of man.’
+CEPHALUS: This is a difficult matter to convince others of, Socrates. When a man feels that he is approaching death, fears and anxieties enter his mind that he never had before. Tales of a world beyond and the punishment for deeds done here, which were once a laughing matter to him, now torment him with the thought that they may be true. Perhaps it is due to the weakness of age or because he is drawing closer to that other place, but he sees these things more clearly now. Suspicions and alarms fill his mind, and he begins to reflect on the wrongs he has done to others. When he realizes the extent of his transgressions, he may, like a child, start up in his sleep from fear, consumed with dark forebodings. But for the person who is conscious of no sin, as Pindar beautifully puts it, sweet hope is the kind nurse of old age. Pindar's words are truly inspiring. He says that hope nourishes the soul of those who live justly and righteously, and is the companion of their journey through life. Hope is a powerful force that can calm the restless soul of man. The great benefit of riches, not for everyone, but for a good person, is that they have no need to deceive or cheat others, whether intentionally or unintentionally. When they pass on to the afterlife, they have no fears about any offerings owed to the gods or debts owed to other people. Possessing wealth greatly contributes to this peace of mind, and thus, in my opinion, among the many advantages that wealth offers, this is the greatest for a wise person.
 
-How admirable are his words! And the great blessing of riches, I do not say to every man, but to a good man, is, that he has had no occasion to deceive or to defraud others, either intentionally or unintentionally; and when he departs to the world below he is not in any apprehension about offerings due to the gods or debts which he owes to men. Now to this peace of mind the possession of wealth greatly contributes; and therefore I say, that, setting one thing against another, of the many advantages which wealth has to give, to a man of sense this is in my opinion the greatest.
+SOCRATES: Well said Cephalus, but your definition of justice seems to be too narrow. Is it merely about telling the truth and paying one's debts? Even to this, are there not exceptions? For example, suppose a friend in his right mind has deposited weapons with me and he later asks for them when he is not in his right mind. Should I give them back to him? No one would say that I should, just as no one would say that I should always tell the truth to someone who is mentally unstable.
 
-Well said, Cephalus, I replied; but as concerning justice, what is it?—to speak the truth and to pay your debts—no more than this? And even to this are there not exceptions? Suppose that a friend when in his right mind has deposited arms with me and he asks for them when he is not in his right mind, ought I to give them back to him? No one would say that I ought or that I should be right in doing so, any more than they would say that I ought always to speak the truth to one who is in his condition.
+CEPHALUS: You are quite right.
 
-You are quite right, he replied.
+SOCRATES: So, speaking the truth and paying your debts is not a correct definition of justice.
 
-But then, I said, speaking the truth and paying your debts is not a correct definition of justice.
+POLEMARCHUS: Quite correct, Socrates, if Simonides is to be believed.
 
-Quite correct, Socrates, if Simonides is to be believed, said Polemarchus interposing.
+CEPHALUS: I fear that I must go now, for I have to look after the sacrifices, and I hand over the argument to Polemarchus and the company.
 
-I fear, said Cephalus, that I must go now, for I have to look after the sacrifices, and I hand over the argument to Polemarchus and the company.
+SOCRATES: Isn't Polemarchus your heir?
 
-Is not Polemarchus your heir? I said.
+CEPHALUS: Haha, that's right. 
 
-To be sure, he answered, and went away laughing to the sacrifices.
+SOCRATES: Tell me then, heir of the argument, what did Simonides say, and according to you truly say, about justice?
 
-Tell me then, O thou heir of the argument, what did Simonides say, and according to you truly say, about justice?
+POLEMARCHUS: He said that the repayment of a debt is just, and in saying so he appears to me to be right.
 
-He said that the repayment of a debt is just, and in saying so he appears to me to be right.
+SOCRATES: I don't want to offend the wise and inspired man, but I'm having trouble understanding his message. It seems to contradict what we were just discussing. He can't mean that I should give back a deposit of arms or anything else to someone who is not mentally stable because a deposit is a debt that cannot be denied. Maybe you understand it better than I do.
 
-I should be sorry to doubt the word of such a wise and inspired man, but his meaning, though probably clear to you, is the reverse of clear to me. For he certainly does not mean, as we were just now saying, that I ought to return a deposit of arms or of anything else to one who asks for it when he is not in his right senses; and yet a deposit cannot be denied to be a debt.
+POLEMARCHUS: True.
 
-True.
+SOCRATES: Then when the person that is not in his right mind asks me, I am by no means to make the return?
 
-Then when the person who asks me is not in his right mind I am by no means to make the return?
+POLEMARCHUS: Certainly not.
 
-Certainly not.
+SOCRATES: When Simonides said that the repayment of a debt was justice, he did not mean to include that case?
 
-When Simonides said that the repayment of a debt was justice, he did not mean to include that case?
+POLEMARCHUS: Certainly not; for he thinks that a friend ought always to do good to a friend and never evil.
 
-Certainly not; for he thinks that a friend ought always to do good to a friend and never evil.
+SOCRATES: So, if I understand correctly, you are suggesting that the wise man might be saying that returning a deposit of gold, which would harm the person who gave it, isn't actually repaying a debt. Is that what you mean?
 
-You mean that the return of a deposit of gold which is to the injury of the receiver, if the two parties are friends, is not the repayment of a debt,—that is what you would imagine him to say?
+POLEMARCHUS: Yes.
 
-Yes.
+SOCRATES: And are enemies also to receive what we owe to them?
 
-And are enemies also to receive what we owe to them?
+POLEMARCHUS: If someone is our enemy, we should treat them accordingly and give them what they deserve, which, in their case, may be something negative or harmful.
 
-To be sure, he said, they are to receive what we owe them, and an enemy, as I take it, owes to an enemy that which is due or proper to him—that is to say, evil.
+SOCRATES: Simonides then, being a poet, expressed himself in a somewhat obscure manner when it came to the nature of justice. Essentially, what he meant was that justice means giving each person what they rightfully deserve, which he referred to as a debt.
 
-Simonides, then, after the manner of poets, would seem to have spoken darkly of the nature of justice; for he really meant to say that justice is the giving to each man what is proper to him, and this he termed a debt.
+POLEMARCHUS: That must have been his meaning.
 
-That must have been his meaning, he said.
+SOCRATES: Wow! So if we were to ask him what medicine owes to whom and what is the proper thing to be given, what do you think his response would be?
 
-By heaven! I replied; and if we asked him what due or proper thing is given by medicine, and to whom, what answer do you think that he would make to us?
+POLEMARCHUS: He would most likely answer that medicine provides drugs, food, and drink to help heal and nourish the human body.
 
-He would surely reply that medicine gives drugs and meat and drink to human bodies.
+SOCRATES: What does cookery provide, and for whom is it intended?
 
-And what due or proper thing is given by cookery, and to what?
+POLEMARCHUS: Seasoning to food.
 
-Seasoning to food.
+SOCRATES: What does justice give, and who is it given to?
 
-And what is that which justice gives, and to whom?
+POLEMARCHUS: Socrates, if we are to draw on the similarities between the examples you mentioned earlier, then justice can be seen as the skill of providing benefits to our friends and giving harm to our enemies.
 
-If, Socrates, we are to be guided at all by the analogy of the preceding instances, then justice is the art which gives good to friends and evil to enemies.
+SOCRATES: That is his meaning then?
 
-That is his meaning then?
+POLEMARCHUS: I think so.
 
-I think so.
+SOCRATES: And who is best able to do good to his friends and evil to his enemies in time of sickness?
 
-And who is best able to do good to his friends and evil to his enemies in time of sickness?
+POLEMARCHUS: The physician.
 
-The physician.
+SOCRATES: Or when they are on a voyage, amid the perils of the sea?
 
-Or when they are on a voyage, amid the perils of the sea?
+POLEMARCHUS: The pilot.
 
-The pilot.
+SOCRATES: What actions can a just person take to harm their enemy and benefit their friend, and what outcome do these actions aim to achieve?
 
-And in what sort of actions or with a view to what result is the just man most able to do harm to his enemy and good to his friend?
+POLEMARCHUS: In going to war against the one and in making alliances with the other.
 
-In going to war against the one and in making alliances with the other.
+SOCRATES: But when a man is well, my dear Polemarchus, there is no need of a physician?
 
-But when a man is well, my dear Polemarchus, there is no need of a physician?
+POLEMARCHUS: No.
 
-No.
+SOCRATES: And he who is not on a voyage has no need of a pilot?
 
-And he who is not on a voyage has no need of a pilot?
+POLEAMRCHUS: No.
 
-No.
+SOCRATES: Then in time of peace, justice will be of no use?
 
-Then in time of peace justice will be of no use?
+POLEMARCHUS: I am very far from thinking so.
 
-I am very far from thinking so.
+SOCRATES: You think that justice may be of use in peace as well as in war?
 
-You think that justice may be of use in peace as well as in war?
+POLEMARCHUS: Yes.
 
-Yes.
+SOCRATES: Is it comparable to farming techniques used to grow crops like corn?
 
-Like husbandry for the acquisition of corn?
+POLEMARCHUS: Yes.
 
-Yes.
+SOCRATES: Or like shoemaking for the acquisition of shoes,—that is what you mean?
 
-Or like shoemaking for the acquisition of shoes,—that is what you mean?
+POLEMARCHUS: Yes.
 
-Yes.
+SOCRATES: What similar function or ability does justice have during times of peace?
 
-And what similar use or power of acquisition has justice in time of peace?
+POLEMARCHUS: In contracts, Socrates, justice is of use.
 
-In contracts, Socrates, justice is of use.
+SOCRATES: And by contracts you mean partnerships?
 
-And by contracts you mean partnerships?
+POLEMARCHUS: Exactly.
 
-Exactly.
+SOCRATES: When playing a game of draughts, which is more valuable and effective: a just person or a skilled player?
 
-But is the just man or the skilful player a more useful and better partner at a game of draughts?
+POLEMARCHUS: The skilful player.
 
-The skilful player.
+SOCRATES: And in the laying of bricks and stones is the just man a more useful or better partner than the builder?
 
-And in the laying of bricks and stones is the just man a more useful or better partner than the builder?
+POLEMARCHUS: Quite the reverse.
 
-Quite the reverse.
+SOCRATES: Then in what sort of partnership is the just man a better partner than the harp-player, as in playing the harp the harp-player is certainly a better partner than the just man?
 
-Then in what sort of partnership is the just man a better partner than the harp-player, as in playing the harp the harp-player is certainly a better partner than the just man?
+POLEMARCHUS: In a money partnership.
 
-In a money partnership.
+SOCRATES: Yes, Polemarchus, but surely not in the use of money; for you do not want a just man to be your counsellor in the purchase or sale of a horse; a man who is knowing about horses would be better for that, would he not?
 
-Yes, Polemarchus, but surely not in the use of money; for you do not want a just man to be your counsellor in the purchase or sale of a horse; a man who is knowing about horses would be better for that, would he not?
+POLEMARCHUS: Certainly.
 
-Certainly.
+SOCRATES: And when you want to buy a ship, the shipwright or the pilot would be better?
 
-And when you want to buy a ship, the shipwright or the pilot would be better?
+POLEMARCHUS: True.
 
-True.
+SOCRATES: Then what is that joint use of silver or gold in which the just man is to be preferred?
 
-Then what is that joint use of silver or gold in which the just man is to be preferred?
+POLEMARCHUS: When you want a deposit to be kept safely.
 
-When you want a deposit to be kept safely.
+SOCRATES: You mean when money is not wanted, but allowed to lie?
 
-You mean when money is not wanted, but allowed to lie?
+POLEMARCHUS: Precisely.
 
-Precisely.
+SOCRATES: That is to say, justice is useful when money is useless?
 
-That is to say, justice is useful when money is useless?
+POLEMARCHUS: It seems so.
 
-That is the inference.
+SOCRATES: And when you want to keep a pruning-hook safe, then justice is useful to the individual and to the state; but when you want to use it, then the art of the vine-dresser?
 
-And when you want to keep a pruning-hook safe, then justice is useful to the individual and to the state; but when you want to use it, then the art of the vine-dresser?
+POLEMARCHUS: Clearly.
 
-Clearly.
+SOCRATES: And when you want to keep a shield or a lyre, and not to use them, you would say that justice is useful; but when you want to use them, then the art of the soldier or of the musician?
 
-And when you want to keep a shield or a lyre, and not to use them, you would say that justice is useful; but when you want to use them, then the art of the soldier or of the musician?
+POLEMARCHUS: Certainly.
 
-Certainly.
+SOCRATES: And so of all other things;—justice is useful when they are useless, and useless when they are useful?
 
-And so of all other things;—justice is useful when they are useless, and useless when they are useful?
+POLEMARCHUS: It seems so.
 
-That is the inference.
+SOCRATES: Then justice is not good for much. But let us consider this further point: Is not he who can best strike a blow in a boxing match or in any kind of fighting best able to ward off a blow?
 
-Then justice is not good for much. But let us consider this further point: Is not he who can best strike a blow in a boxing match or in any kind of fighting best able to ward off a blow?
+POLEMARCHUS: Certainly.
 
-Certainly.
+SOCRATES: And he who is most skilful in preventing or escaping from a disease is best able to create one?
 
-And he who is most skilful in preventing or escaping from a disease is best able to create one?
+POLEMARCHUS: True.
 
-True.
+SOCRATES: And he is the best guard of a camp who is best able to hear the enemy approaching?
 
-And he is the best guard of a camp who is best able to steal a march upon the enemy?
+POLEMARCHUS: Certainly.
 
-Certainly.
+SOCRATES: Then he who is a good keeper of anything is also a good thief?
 
-Then he who is a good keeper of anything is also a good thief?
+POLEMARCHUS: I guess it seems so. 
 
-That, I suppose, is to be inferred.
+SOCRATES: Then if the just man is good at keeping money, he is good at stealing it.
 
-Then if the just man is good at keeping money, he is good at stealing it.
+POLEMARCHUS: That is implied in the argument.
 
-That is implied in the argument.
+SOCRATES: So, it turns out that the righteous person is actually a thief. I think you probably got this idea from Homer, as he talks about Autolycus, Odysseus' maternal grandfather, who he greatly admires. Homer claims that Autolycus was the best at stealing and lying. So, it seems like you, Homer, and Simonides all agree that justice is about mastering the art of theft, but with the intention of helping friends and hurting enemies. Is that what you were trying to say?
 
-Then after all the just man has turned out to be a thief. And this is a lesson which I suspect you must have learnt out of Homer; for he, speaking of Autolycus, the maternal grandfather of Odysseus, who is a favourite of his, affirms that
+POLEMARCHUS: No, certainly not that. Though I am a little confused, I still stand by the latter words.
 
-‘He was excellent above all men in theft and perjury.’
+SOCRATES: Well, there is another question: By friends and enemies do we mean those who are so really, or only in seeming?
 
-And so, you and Homer and Simonides are agreed that justice is an art of theft; to be practised however ‘for the good of friends and for the harm of enemies,’—that was what you were saying?
+POLEMARCHUS: Surely, a man may be expected to love those whom he thinks good, and to hate those whom he thinks evil.
 
-No, certainly not that, though I do not now know what I did say; but I still stand by the latter words.
+SOCRATES: Yes, but do not persons often make mistake about good and evil: many who are not good seem to be so, and conversely?
 
-Well, there is another question: By friends and enemies do we mean those who are so really, or only in seeming?
+POLEMARCHUS: That is true.
 
-Surely, he said, a man may be expected to love those whom he thinks good, and to hate those whom he thinks evil.
+SOCRATES: Then to them the good will be enemies and the evil will be their friends? 
 
-Yes, but do not persons often err about good and evil: many who are not good seem to be so, and conversely?
+POLEMARCHUS: True.
 
-That is true.
+SOCRATES: And in that case they will be right in doing good to the evil and evil to the good?
 
-Then to them the good will be enemies and the evil will be their friends? True.
-
-And in that case they will be right in doing good to the evil and evil to the good?
+********************************************************
 
 Clearly.
 
@@ -1002,6 +985,8 @@ Then, my blessed Thrasymachus, injustice can never be more profitable than justi
 Let this, Socrates, he said, be your entertainment at the Bendidea.
 
 For which I am indebted to you, I said, now that you have grown gentle towards me and have left off scolding. Nevertheless, I have not been well entertained; but that was my own fault and not yours. As an epicure snatches a taste of every dish which is successively brought to table, he not having allowed himself time to enjoy the one before, so have I gone from one subject to another without having discovered what I sought at first, the nature of justice. I left that enquiry and turned away to consider whether justice is virtue and wisdom or evil and folly; and when there arose a further question about the comparative advantages of justice and injustice, I could not refrain from passing on to that. And the result of the whole discussion has been that I know nothing at all. For I know not what justice is, and therefore I am not likely to know whether it is or is not a virtue, nor can I say whether the just man is happy or unhappy.
+
+_____________________________________________________________________________________________________________________________________
 
 BOOK II.
 With these words I was thinking that I had made an end of the discussion; but the end, in truth, proved to be only a beginning. For Glaucon, who is always the most pugnacious of men, was dissatisfied at Thrasymachus’ retirement; he wanted to have the battle out. So he said to me: Socrates, do you wish really to persuade us, or only to seem to have persuaded us, that to be just is always better than to be unjust?
